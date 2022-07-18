@@ -9,6 +9,8 @@ metadata = Hash()
 total_minted = Variable()
 operator = Variable()
 
+temporary_var = Variable()
+
 # 31536000 seconds per year
 
 
